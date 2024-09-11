@@ -1,0 +1,101 @@
+SOCCER GAME SETUP!
+Player Pat
+Player Rick
+Field: [100.0,200.0]750.0,500.0
+Ball is at (150.0,300.0)
+
+
+Player Pat kicks the ball for a distance of 572.8164676251573 pixels at 25.829560868329406 degrees
+Ball is at (150.0,549.5735841490359)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 229.26513402702656 pixels at 227.3640418028947 degrees
+Ball is at (150.0,380.9096118405877)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 118.36235733750249 pixels at 25.539426330908142 degrees
+Ball is at (256.797032645131,431.93942129237223)
+
+
+Player Rick kicks the ball for a distance of 253.3590046718907 pixels at 241.64246212693436 degrees
+Ball is at (136.4585570385724,208.9832898740575)
+
+
+Player Pat kicks the ball for a distance of 391.4638475687998 pixels at 330.34961227824124 degrees
+Ball is at (476.66420874219966,208.9832898740575)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 441.1469963435634 pixels at 298.6792426089519 degrees
+Ball is at (476.66420874219966,-178.04382993557846)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 558.2734958822352 pixels at 98.32619314261561 degrees
+Ball is at (395.8214309965144,374.3452915095617)
+
+
+Player Rick kicks the ball for a distance of 555.7676151182109 pixels at 287.17120690452236 degrees
+Ball is at (559.8995661097687,374.3452915095617)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 370.6997586947662 pixels at 103.35268510839755 degrees
+Ball is at (474.2884936048427,374.3452915095617)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 302.1117469096065 pixels at 323.74556258716984 degrees
+Ball is at (474.2884936048427,195.68483219326865)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 196.88768808346222 pixels at 241.1752756061334 degrees
+Ball is at (379.3626830900564,195.68483219326865)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 523.2482606310867 pixels at 324.9925064180724 degrees
+Ball is at (379.3626830900564,-104.49409609827418)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 445.08082217108085 pixels at 132.16183008891448 degrees
+Ball is at (379.3626830900564,225.42292048325382)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 367.7791537184812 pixels at 15.811898110850553 degrees
+Ball is at (379.3626830900564,325.6354050754561)
+The ball was reflected
+
+
+Player Pat kicks the ball for a distance of 349.3886218836731 pixels at 10.92261337355156 degrees
+Ball is at (379.3626830900564,391.8386042774916)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 200.84756878284168 pixels at 158.7725875504986 degrees
+Ball is at (192.1424853207204,464.55960147354926)
+
+
+Player Pat kicks the ball for a distance of 286.5695173369389 pixels at 29.854297123864846 degrees
+Ball is at (440.6825368489024,607.2127859914378)
+
+
+Player Rick kicks the ball for a distance of 91.48309124554439 pixels at 26.721886042485977 degrees
+Ball is at (522.3952056547131,648.3490928318979)
+
+
+Player Pat kicks the ball for a distance of 262.27552672359695 pixels at 291.8332822834081 degrees
+Ball is at (522.3952056547131,404.8866032574175)
+The ball was reflected
+
+
+Player Rick kicks the ball for a distance of 537.6795297164243 pixels at 9.671818680917145 degrees
+Ball is at (522.3952056547131,495.2192022201126)
+The ball was reflected
+
+Process finished with exit code 0
